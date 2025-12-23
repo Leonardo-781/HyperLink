@@ -1,0 +1,38 @@
+# Arduino/ESP32
+*.hex
+*.eep
+*.lss
+*.map
+*.sym
+*.elf
+*.bin
+
+# Build directories
+build/
+.build/
+
+# Arduino IDE
+.vscode/
+.vs/
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Credentials (se houver)
+secrets.h
+credentials.h
+
+# Compiled libraries
+*.a
+*.o
+
+# Python (se usar scripts)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
