@@ -155,7 +155,7 @@ Pull requests são bem-vindos. Para mudanças maiores, abra uma issue primeiro.
 
 ## Autor
 
-Leonardo - [@seu_usuario](https://github.com/seu_usuario)
+Leonardo - [@seu_usuario](https://github.com/Leonardo-781)
 
 ## Agradecimentos
 
